@@ -1,6 +1,6 @@
 ### Hi, I'm Alexei
 
-Computer Science at Princeton ('27), with minors in statistics, machine learning and optimization. I work across ML research and engineering: multimodal models that act (speaking, drawing), understanding what models learn internally, and perception and control for real systems, from autonomous vehicles (Nuro, Princeton's PAVE team) to space-telescope optics (NASA Ames).
+Princeton ('27) working across ML research and engineering: multimodal models that act (speaking, drawing), understanding what models learn internally, and perception and control for real systems, from autonomous vehicles (Nuro, Princeton's PAVE team) to space-telescope optics (NASA Ames).
 
 **Projects**
 
